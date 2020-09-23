@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/cjilbert504/know_your_copyrights
+  revision: fd6d490fcd63d8bdd2d4bbcff760b84079cd3900
+  specs:
+    know_your_copyrights (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -185,6 +191,7 @@ DEPENDENCIES
   friendly_id (~> 5.1.0)
   jbuilder (~> 2.5)
   jquery-rails
+  know_your_copyrights!
   listen (~> 3.0.5)
   pg (~> 0.18)
   puma (~> 3.0)
